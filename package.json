@@ -36,7 +36,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@babel/polyfill": "~7.12.1",
-    "@babel/runtime": "~7.12.5",
+    "@babel/runtime": "~7.14.6",
     "@date-io/luxon": "~2.10.6",
     "@fortawesome/fontawesome-svg-core": "~1.2.0",
     "@fortawesome/pro-duotone-svg-icons": "~5.12.0",
