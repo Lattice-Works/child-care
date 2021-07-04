@@ -52,7 +52,7 @@
     "jwt-decode": "~3.1.1",
     "lattice": "~0.86.0",
     "lattice-ui-kit": "~0.39.0",
-    "lattice-sagas": "~0.60.0",
+    "lattice-sagas": "~0.67.4",
     "lattice-utils": "~0.8.2",
     "lodash": "~4.17.10",
     "loglevel": "~1.7.0",
