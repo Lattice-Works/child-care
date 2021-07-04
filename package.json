@@ -50,7 +50,7 @@
     "history": "~4.10.0",
     "immutable": "4.0.0-rc.10",
     "jwt-decode": "~3.1.1",
-    "lattice": "~0.86.0",
+    "lattice": "~0.93.5",
     "lattice-ui-kit": "~0.39.0",
     "lattice-sagas": "~0.60.0",
     "lattice-utils": "~0.8.2",
